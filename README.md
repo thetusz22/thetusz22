@@ -15,7 +15,7 @@
 
 I am a developer with an insatiable curiosity for how things work—from **low-level hardware control** to **immersive 3D web experiences** and **cutting-edge AI models**.
 
-I don't just write code; I explore ecosystems. Whether it's testing the latest **Hugging Face Spaces**, optimizing a Linux kernel for a Raspberry Pi, or building a WebGL engine from scratch, I am always learning and building.
+I don't just write code; I explore ecosystems. Whether it's testing the latest **Hugging Face Spaces**, pushing a **Raspberry Pi Pico 2 W** to its limits, or building a WebGL engine from scratch, I am always learning and building.
 
 ---
 
@@ -23,7 +23,7 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 
 * **🌐 Modern Web Development:** I build responsive, interactive interfaces using **React, Next.js, and TypeScript**.
 * **🤖 AI & Innovation:** I actively monitor and experiment with the latest ML models on **Hugging Face** to integrate AI into practical applications.
-* **⚙️ Industrial IoT:** Experience with Linux automation, Docker, and connecting edge devices to the web.
+* **⚙️ Industrial IoT:** Strong knowledge of **Linux automation**, Docker, and connecting embedded devices (Microcontrollers/Edge) to the web.
 * **🎨 Creative Tech:** Bridging the gap between code and visual art with **Blender** and **WebGL**.
 
 ---
@@ -32,6 +32,7 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 
 **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B3A42?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -47,7 +48,7 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 **Backend, IoT & AI Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi_Pico-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge)
 
@@ -61,9 +62,9 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 
 #### 1. 🕹️ [Hardware-Isolated Input Automation System](https://github.com/thetusz22/Hardware-Isolated-Input-Automation-System)
 *A Proof-of-Concept for secure, external hardware control.*
-* **The Tech:** Python, Linux USB Gadget API, Socket Networking.
-* **The Challenge:** Created a low-latency bridge that reads memory states from a host PC and emulates HID inputs via a Raspberry Pi over the network.
-* **Key Skill:** Hardware/Software Isolation & Reverse Engineering.
+* **The Tech:** Python (Host), MicroPython (Pico), Wi-Fi Sockets.
+* **The Challenge:** Created a low-latency wireless bridge that reads memory states from a host PC and emulates HID inputs via a **Raspberry Pi Pico 2 W**.
+* **Key Skill:** Embedded Systems & Hardware Isolation.
 
 #### 2. 🛡️ [Guardify - AI-Powered 3D Product Configurator](https://guardify.hu)
 *A full-stack e-commerce solution for custom manufacturing.*
