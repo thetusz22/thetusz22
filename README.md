@@ -69,7 +69,7 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 *A full-stack e-commerce solution for custom manufacturing.*
 * **The Tech:** React, Three.js (R3F), AI Background Removal API, WebGL.
 * **The Challenge:** Built a custom 3D editor where users can upload images, remove backgrounds using AI, and map textures onto a 3D shin guard model (which I modeled) in real-time.
-* **Key Skill:** 3D Web Development & Automated Manufacturing Pipelines
+* **Key Skill:** 3D Web Development & Automated Manufacturing Pipelines.
 
 #### 3. 📐 [3D Spatial Measurement & Dollhouse Viewer](https://github.com/thetusz22/dollhousemeasure)
 *A browser-based tool for precise spatial analysis in 3D environments.*
@@ -83,14 +83,16 @@ I build production-ready web applications across various industries using **Reac
 
 | Project | Domain | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **[🛡️ Guardify.hu](https://guardify.hu)** | Webshop, 3D product customizer | `React` `Vite` | Webshop and 3D product configurator with AI integration. |
+| **[🛡️ Guardify.hu](https://guardify.hu)** | Webshop, 3D Configurator | `React` `Vite` | Webshop and 3D product configurator with AI integration. |
 | **[🏠 RestartIngatlan.hu](https://restartingatlan.hu)** | Real Estate | `React` `UX/UI` | Property listing platform with modern UI. |
 | **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Hospitality | `React` `Cloudflare` | Branding site for a Smash Burger restaurant. |
 | **[🍲 Zöldkapu Csárda](https://zoldkapu.pages.dev/)** | Hospitality | `React` `Design` | Traditional restaurant site with digitized menu. |
 | **[✂️ Lumina Salon](https://lumina-35b.pages.dev/)** | Beauty | `React` `Vite` | Elegant portfolio for a hair salon. |
 | **[⚖️ Ügyvéd Úr](https://ugyvedur.pages.dev/)** | Legal | `Minimalist` | Professional, trustworthy site for legal services. |
----
 
+> 🔒 **Note:** The source code for the web projects listed above is hosted in private repositories to protect client intellectual property and adhere to NDAs. I am happy to discuss the architecture and technologies used in person.
+
+---
 
 ### 📫 Connect with me
 * **Email:** martinsztanyi@gmail.com
