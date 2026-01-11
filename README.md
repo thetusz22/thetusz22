@@ -61,6 +61,18 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 * **The Challenge:** Developed a performant rendering system to display high-fidelity 3D models and animations directly in the browser.
 * **Key Skill:** 3D Math, Optimization, Asset Management.
 
+### 🌐 Live Deployments & Client Work
+
+I build production-ready web applications across various industries using **React, Vite, and Cloudflare**.
+
+| Project | Domain | Tech Stack | Description |
+| :--- | :--- | :--- | :--- |
+| **[🛡️ Guardify.hu](https://guardify.hu)** | Security | `React` `Vite` | Production site for security solutions. |
+| **[🏠 RestartIngatlan.hu](https://restartingatlan.hu)** | Real Estate | `React` `UX/UI` | Property listing platform with modern UI. |
+| **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Hospitality | `React` `Cloudflare` | Branding site for a Smash Burger restaurant. |
+| **[🍲 Zöldkapu Csárda](https://zoldkapu.pages.dev/)** | Hospitality | `React` `Design` | Traditional restaurant site with digitized menu. |
+| **[✂️ Lumina Salon](https://lumina-35b.pages.dev/)** | Beauty | `React` `Vite` | Elegant portfolio for a hair salon. |
+| **[⚖️ Ügyvéd Úr](https://ugyvedur.pages.dev/)** | Legal | `Minimalist` | Professional, trustworthy site for legal services. |
 ---
 
 
