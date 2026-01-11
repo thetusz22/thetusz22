@@ -72,4 +72,4 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 
 ### 📫 Connect with me
 * **Email:** martinsztanyi@gmail.com
-* **Socials:** [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MartinSztanyi)
+* **Socials:** [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/Sztanyi.Martin/))
