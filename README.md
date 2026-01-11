@@ -49,17 +49,17 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 
 ### 🏆 Featured Projects
 
-#### 1. 🕹️ [Hardware-Isolated Input Automation System](LINK_A_RPI_REPODHOZ)
+#### 1. 🕹️ [Hardware-Isolated Input Automation System](https://github.com/thetusz22/Hardware-Isolated-Input-Automation-System)
 *A Proof-of-Concept for secure, external hardware control.*
 * **The Tech:** Python, Linux USB Gadget API, Socket Networking.
 * **The Challenge:** Created a low-latency bridge that reads memory states from a host PC and emulates HID inputs via a Raspberry Pi over the network.
 * **Key Skill:** Hardware/Software Isolation & Reverse Engineering.
 
-#### 2. 🌍 [Custom WebGL Virtual Walkthrough Engine](LINK_A_3D_REPODHOZ)
-*A browser-based 3D engine for interactive virtual tours.*
-* **The Tech:** JavaScript, WebGL, Custom Logic.
-* **The Challenge:** Developed a performant rendering system to display high-fidelity 3D models and animations directly in the browser.
-* **Key Skill:** 3D Math, Optimization, Asset Management.
+#### 2. 📐 [3D Spatial Measurement & Dollhouse Viewer](https://github.com/thetusz22/dollhousemeasure)
+*A browser-based tool for precise spatial analysis in 3D environments.*
+* **The Tech:** Three.js / React Three Fiber, Vector Math, Raycasting.
+* **The Challenge:** Implemented a "Dollhouse" view mode with interactive measurement tools, allowing users to calculate distances between 3D points in real-time.
+* **Key Skill:** Digital Twin Visualization & Computational Geometry.
 
 ### 🌐 Live Deployments & Client Work
 
@@ -78,4 +78,4 @@ I build production-ready web applications across various industries using **Reac
 
 ### 📫 Connect with me
 * **Email:** martinsztanyi@gmail.com
-* **Socials:** [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/Sztanyi.Martin/))
+* **Socials:** [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Sztanyi.Martin/)
