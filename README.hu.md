@@ -84,7 +84,7 @@ Gyártásra kész webalkalmazásokat építek **React, Vite és Cloudflare** has
 
 | Projekt | Iparág | Tech Stack | Leírás |
 | :--- | :--- | :--- | :--- |
-| **[🛡️ Guardify.hu](https://guardify.hu)** | Biztonság | `React` `Vite` | Éles weboldal biztonságtechnikai megoldásokhoz. |
+| **[🛡️ Guardify.hu](https://guardify.hu)** | 3D Termék és webshop | `React` `Vite` | Webshop és 3D termék konfigurátor, AI integrációval. |
 | **[🏠 RestartIngatlan.hu](https://restartingatlan.hu)** | Ingatlan | `React` `UX/UI` | Ingatlanlistázó platform modern felülettel. |
 | **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Vendéglátás | `React` `Cloudflare` | Branding oldal egy Smash Burger étteremnek. |
 | **[🍲 Zöldkapu Csárda](https://zoldkapu.pages.dev/)** | Vendéglátás | `React` `Design` | Hagyományos éttermi oldal digitalizált étlappal. |
