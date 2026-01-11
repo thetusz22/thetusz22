@@ -63,12 +63,6 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 
 ---
 
-### ⚡ GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=thetusz22&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thetusz22&theme=dark&hide_border=true&layout=compact&langs_count=6)
-
----
 
 ### 📫 Connect with me
 * **Email:** martinsztanyi@gmail.com
