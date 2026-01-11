@@ -1,3 +1,13 @@
+<div align="right">
+  <a href="https://github.com/thetusz22/thetusz22/blob/main/README.md">
+    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=github" alt="English">
+  </a>
+  <a href="https://github.com/thetusz22/thetusz22/blob/main/README.hu.md">
+    <img src="https://img.shields.io/badge/lang-Magyar-gray?style=for-the-badge&logo=github" alt="Magyar">
+  </a>
+</div>
+<br>
+
 # Hi there, I'm Martin! 👋
 
 ### 🎓 BProf Student @ Kodolányi János University
