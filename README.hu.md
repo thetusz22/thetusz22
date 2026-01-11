@@ -15,7 +15,7 @@
 
 Szenvedélyes fejlesztő vagyok, akit hajt a kíváncsiság, hogyan működnek a dolgok – az **alacsony szintű hardvervezérléstől** kezdve a **lenyűgöző 3D webes élményekig** és a **legújabb AI modellekig**.
 
-Nem csak kódot írok, hanem teljes rendszereket építek. Legyen szó a legújabb **Hugging Face** modellek teszteléséről, egy Linux kernel optimalizálásáról Raspberry Pi-re, vagy egy WebGL motor nulláról történő fejlesztéséről – mindig tanulok és alkotok.
+Nem csak kódot írok, hanem teljes ökoszisztémákat fedezek fel. Legyen szó a legújabb **Hugging Face Spaces** teszteléséről, egy Linux kernel optimalizálásáról Raspberry Pi-re, vagy egy WebGL motor nulláról történő fejlesztéséről – folyamatosan tanulok és építek.
 
 ---
 
@@ -24,7 +24,7 @@ Nem csak kódot írok, hanem teljes rendszereket építek. Legyen szó a legúja
 * **🌐 Modern Webfejlesztés:** Reszponzív, interaktív felületeket készítek **React, Next.js és TypeScript** segítségével.
 * **🤖 AI & Innováció:** Aktívan figyelem és kísérletezem a legújabb ML modellekkel (**Hugging Face**), hogy az AI-t gyakorlati alkalmazásokba integráljam.
 * **⚙️ Ipari IoT:** Tapasztalat Linux automatizációban, Docker konténerizációban és edge eszközök webes összekapcsolásában.
-* **🎨 Creative Tech:** Híd a kód és a vizuális művészet között **Blender** és **WebGL** használatával.
+* **🎨 Kreatív Technológiák:** Híd a kód és a vizuális művészet között **Blender** és **WebGL** használatával.
 
 ---
 
@@ -65,35 +65,32 @@ Nem csak kódot írok, hanem teljes rendszereket építek. Legyen szó a legúja
 * **A Kihívás:** Egy alacsony késleltetésű híd létrehozása, amely olvassa a memóriát a gazdagépről, és hálózaton keresztül HID (Human Interface Device) bemenetet emulál egy Raspberry Pi segítségével.
 * **Kulcs Skill:** Hardver/Szoftver izoláció & Reverse Engineering.
 
-#### 2. 🛡️ [Guardify - AI-vezérelt 3D Termékkonfigurátor](https://guardify.hu)
+#### 2. 🛡️ [Guardify - AI-Vezérelt 3D Termékkonfigurátor](https://guardify.hu)
 *Full-stack e-kereskedelmi megoldás egyedi gyártáshoz.*
 * **Technológia:** React, Three.js (R3F), AI Háttér-eltávolító API, WebGL.
 * **A Kihívás:** Egy egyedi 3D szerkesztő fejlesztése, ahol a felhasználók képeket tölthetnek fel, AI segítségével eltávolíthatják a hátteret, és valós időben textúrázhatják az általam készített 3D sípcsontvédő modellt.
-* **Kulcs Skill:** 3D Webfejlesztés & Gyártás-előkészítés.
-  
+* **Kulcs Skill:** 3D Webfejlesztés & Automatizált Gyártási Folyamatok.
+
 #### 3. 📐 [3D Spatial Measurement & Dollhouse Viewer](https://github.com/thetusz22/dollhousemeasure)
 *Böngésző alapú eszköz precíziós térbeli elemzéshez 3D környezetben.*
 * **Technológia:** Three.js / React Three Fiber, Vektormatematika, Raycasting.
 * **A Kihívás:** "Babaház" nézet és interaktív mérőeszközök implementálása, valós idejű távolságmérés 3D pontok között.
 * **Kulcs Skill:** Digital Twin vizualizáció & Számítógépes geometria.
 
-
 ### 🌐 Éles Rendszerek & Referenciák
 
-Gyártásra kész webalkalmazásokat építek **React, Vite és Cloudflare** használatával.
+Gyártásra kész webalkalmazásokat építek különböző iparágak számára **React, Vite és Cloudflare** használatával.
 
 | Projekt | Iparág | Tech Stack | Leírás |
 | :--- | :--- | :--- | :--- |
-| **[🛡️ Guardify.hu](https://guardify.hu)** | 3D Termék és webshop | `React` `Vite` | Webshop és 3D termék konfigurátor, AI integrációval. |
+| **[🛡️ Guardify.hu](https://guardify.hu)** | Webshop, 3D termékkonfigurátor | `React` `Vite` | Webshop és 3D tervező AI integrációval. |
 | **[🏠 RestartIngatlan.hu](https://restartingatlan.hu)** | Ingatlan | `React` `UX/UI` | Ingatlanlistázó platform modern felülettel. |
-| **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Vendéglátás | `React` `Cloudflare` | Branding oldal egy Smash Burger étteremnek. |
+| **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Vendéglátás | `React` `Cloudflare` | Brand oldal egy Smash Burger étteremnek. |
 | **[🍲 Zöldkapu Csárda](https://zoldkapu.pages.dev/)** | Vendéglátás | `React` `Design` | Hagyományos éttermi oldal digitalizált étlappal. |
 | **[✂️ Lumina Salon](https://lumina-35b.pages.dev/)** | Szépségipar | `React` `Vite` | Elegáns portfólió oldal fodrászszalonnak. |
-| **[⚖️ Ügyvéd Úr](https://ugyvedur.pages.dev/)** | Jog | `Minimalist` | Professzionális, bizalomgerjesztő oldal jogi szolgáltatásokhoz. |
-
-> 🔒 **Megjegyzés:** A fenti webes projektek forráskódja privát tárolókban van az ügyfél szellemi tulajdonának védelme és az NDA-k betartása miatt. Személyesen szívesen beszélek az alkalmazott technológiákról.
-
+| **[⚖️ Ügyvéd Úr](https://ugyvedur.pages.dev/)** | Jogi | `Minimalist` | Professzionális, bizalomgerjesztő oldal jogi szolgáltatásokhoz. |
 ---
+
 
 ### 📫 Kapcsolat
 * **Email:** martinsztanyi@gmail.com
