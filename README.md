@@ -83,7 +83,7 @@ I build production-ready web applications across various industries using **Reac
 
 | Project | Domain | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **[🛡️ Guardify.hu](https://guardify.hu)** | Security | `React` `Vite` | Webshop and 3D product configurator with AI integration. |
+| **[🛡️ Guardify.hu](https://guardify.hu)** | Webshop, 3D product customizer | `React` `Vite` | Webshop and 3D product configurator with AI integration. |
 | **[🏠 RestartIngatlan.hu](https://restartingatlan.hu)** | Real Estate | `React` `UX/UI` | Property listing platform with modern UI. |
 | **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Hospitality | `React` `Cloudflare` | Branding site for a Smash Burger restaurant. |
 | **[🍲 Zöldkapu Csárda](https://zoldkapu.pages.dev/)** | Hospitality | `React` `Design` | Traditional restaurant site with digitized menu. |
