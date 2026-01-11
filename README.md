@@ -65,7 +65,13 @@ I don't just write code; I explore ecosystems. Whether it's testing the latest *
 * **The Challenge:** Created a low-latency bridge that reads memory states from a host PC and emulates HID inputs via a Raspberry Pi over the network.
 * **Key Skill:** Hardware/Software Isolation & Reverse Engineering.
 
-#### 2. 📐 [3D Spatial Measurement & Dollhouse Viewer](https://github.com/thetusz22/dollhousemeasure)
+#### 2. 🛡️ [Guardify - AI-Powered 3D Product Configurator](https://guardify.hu)
+*A full-stack e-commerce solution for custom manufacturing.*
+* **The Tech:** React, Three.js (R3F), AI Background Removal API, WebGL.
+* **The Challenge:** Built a custom 3D editor where users can upload images, remove backgrounds using AI, and map textures onto a 3D shin guard model (which I modeled) in real-time.
+* **Key Skill:** 3D Web Development & Automated Manufacturing Pipelines
+
+#### 3. 📐 [3D Spatial Measurement & Dollhouse Viewer](https://github.com/thetusz22/dollhousemeasure)
 *A browser-based tool for precise spatial analysis in 3D environments.*
 * **The Tech:** Three.js / React Three Fiber, Vector Math, Raycasting.
 * **The Challenge:** Implemented a "Dollhouse" view mode with interactive measurement tools, allowing users to calculate distances between 3D points in real-time.
@@ -77,7 +83,7 @@ I build production-ready web applications across various industries using **Reac
 
 | Project | Domain | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **[🛡️ Guardify.hu](https://guardify.hu)** | Security | `React` `Vite` | Production site for security solutions. |
+| **[🛡️ Guardify.hu](https://guardify.hu)** | Security | `React` `Vite` | Webshop and 3D product configurator with AI integration. |
 | **[🏠 RestartIngatlan.hu](https://restartingatlan.hu)** | Real Estate | `React` `UX/UI` | Property listing platform with modern UI. |
 | **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Hospitality | `React` `Cloudflare` | Branding site for a Smash Burger restaurant. |
 | **[🍲 Zöldkapu Csárda](https://zoldkapu.pages.dev/)** | Hospitality | `React` `Design` | Traditional restaurant site with digitized menu. |
