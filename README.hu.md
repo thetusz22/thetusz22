@@ -15,7 +15,7 @@
 
 Szenvedélyes fejlesztő vagyok, akit hajt a kíváncsiság, hogyan működnek a dolgok – az **alacsony szintű hardvervezérléstől** kezdve a **lenyűgöző 3D webes élményekig** és a **legújabb AI modellekig**.
 
-Nem csak kódot írok, hanem teljes ökoszisztémákat fedezek fel. Legyen szó a legújabb **Hugging Face Spaces** teszteléséről, egy Linux kernel optimalizálásáról Raspberry Pi-re, vagy egy WebGL motor nulláról történő fejlesztéséről – folyamatosan tanulok és építek.
+Nem csak kódot írok, hanem teljes ökoszisztémákat fedezek fel. Legyen szó a legújabb **Hugging Face Spaces** teszteléséről, egy **Raspberry Pi Pico 2 W** határainak feszegetéséről, vagy egy WebGL motor nulláról történő fejlesztéséről – folyamatosan tanulok és építek.
 
 ---
 
@@ -23,7 +23,7 @@ Nem csak kódot írok, hanem teljes ökoszisztémákat fedezek fel. Legyen szó 
 
 * **🌐 Modern Webfejlesztés:** Reszponzív, interaktív felületeket készítek **React, Next.js és TypeScript** segítségével.
 * **🤖 AI & Innováció:** Aktívan figyelem és kísérletezem a legújabb ML modellekkel (**Hugging Face**), hogy az AI-t gyakorlati alkalmazásokba integráljam.
-* **⚙️ Ipari IoT:** Tapasztalat Linux automatizációban, Docker konténerizációban és edge eszközök webes összekapcsolásában.
+* **⚙️ Ipari IoT:** Erős ismeretek **Linux automatizációban**, Dockerben és mikrokontrollerek (Pico/Edge eszközök) webes csatlakoztatásában.
 * **🎨 Kreatív Technológiák:** Híd a kód és a vizuális művészet között **Blender** és **WebGL** használatával.
 
 ---
@@ -32,6 +32,7 @@ Nem csak kódot írok, hanem teljes ökoszisztémákat fedezek fel. Legyen szó 
 
 **Nyelvek**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B3A42?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -47,7 +48,7 @@ Nem csak kódot írok, hanem teljes ökoszisztémákat fedezek fel. Legyen szó 
 **Backend, IoT & AI Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi_Pico-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge)
 
@@ -61,9 +62,9 @@ Nem csak kódot írok, hanem teljes ökoszisztémákat fedezek fel. Legyen szó 
 
 #### 1. 🕹️ [Hardware-Isolated Input Automation System](https://github.com/thetusz22/Hardware-Isolated-Input-Automation-System)
 *PoC egy biztonságos, külső hardveres vezérlésre.*
-* **Technológia:** Python, Linux USB Gadget API, Socket Networking.
-* **A Kihívás:** Egy alacsony késleltetésű híd létrehozása, amely olvassa a memóriát a gazdagépről, és hálózaton keresztül HID (Human Interface Device) bemenetet emulál egy Raspberry Pi segítségével.
-* **Kulcs Skill:** Hardver/Szoftver izoláció & Reverse Engineering.
+* **Technológia:** Python (Host), MicroPython (Pico), Wi-Fi Socketek.
+* **A Kihívás:** Egy alacsony késleltetésű vezeték nélküli híd létrehozása, amely olvassa a memóriát a gazdagépről, és egy **Raspberry Pi Pico 2 W** segítségével HID bemenetet emulál.
+* **Kulcs Skill:** Beágyazott rendszerek & Hardver izoláció.
 
 #### 2. 🛡️ [Guardify - AI-Vezérelt 3D Termékkonfigurátor](https://guardify.hu)
 *Full-stack e-kereskedelmi megoldás egyedi gyártáshoz.*
@@ -83,14 +84,16 @@ Gyártásra kész webalkalmazásokat építek különböző iparágak számára 
 
 | Projekt | Iparág | Tech Stack | Leírás |
 | :--- | :--- | :--- | :--- |
-| **[🛡️ Guardify.hu](https://guardify.hu)** | Webshop, 3D termékkonfigurátor | `React` `Vite` | Webshop és 3D tervező AI integrációval. |
+| **[🛡️ Guardify.hu](https://guardify.hu)** | Webshop, 3D Konfigurátor | `React` `Vite` | Webshop és 3D tervező AI integrációval. |
 | **[🏠 RestartIngatlan.hu](https://restartingatlan.hu)** | Ingatlan | `React` `UX/UI` | Ingatlanlistázó platform modern felülettel. |
 | **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Vendéglátás | `React` `Cloudflare` | Brand oldal egy Smash Burger étteremnek. |
 | **[🍲 Zöldkapu Csárda](https://zoldkapu.pages.dev/)** | Vendéglátás | `React` `Design` | Hagyományos éttermi oldal digitalizált étlappal. |
 | **[✂️ Lumina Salon](https://lumina-35b.pages.dev/)** | Szépségipar | `React` `Vite` | Elegáns portfólió oldal fodrászszalonnak. |
 | **[⚖️ Ügyvéd Úr](https://ugyvedur.pages.dev/)** | Jogi | `Minimalist` | Professzionális, bizalomgerjesztő oldal jogi szolgáltatásokhoz. |
----
 
+> 🔒 **Megjegyzés:** A fenti webes projektek forráskódja privát tárolókban van az ügyfél szellemi tulajdonának védelme és az NDA-k betartása miatt. Személyesen szívesen beszélek az alkalmazott technológiákról.
+
+---
 
 ### 📫 Kapcsolat
 * **Email:** martinsztanyi@gmail.com
