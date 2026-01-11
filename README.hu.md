@@ -65,11 +65,18 @@ Nem csak kódot írok, hanem teljes rendszereket építek. Legyen szó a legúja
 * **A Kihívás:** Egy alacsony késleltetésű híd létrehozása, amely olvassa a memóriát a gazdagépről, és hálózaton keresztül HID (Human Interface Device) bemenetet emulál egy Raspberry Pi segítségével.
 * **Kulcs Skill:** Hardver/Szoftver izoláció & Reverse Engineering.
 
-#### 2. 📐 [3D Spatial Measurement & Dollhouse Viewer](https://github.com/thetusz22/dollhousemeasure)
+#### 2. 🛡️ [Guardify - AI-vezérelt 3D Termékkonfigurátor](https://guardify.hu)
+*Full-stack e-kereskedelmi megoldás egyedi gyártáshoz.*
+* **Technológia:** React, Three.js (R3F), AI Háttér-eltávolító API, WebGL.
+* **A Kihívás:** Egy egyedi 3D szerkesztő fejlesztése, ahol a felhasználók képeket tölthetnek fel, AI segítségével eltávolíthatják a hátteret, és valós időben textúrázhatják az általam készített 3D sípcsontvédő modellt.
+* **Kulcs Skill:** 3D Webfejlesztés & Gyártás-előkészítés.
+  
+#### 3. 📐 [3D Spatial Measurement & Dollhouse Viewer](https://github.com/thetusz22/dollhousemeasure)
 *Böngésző alapú eszköz precíziós térbeli elemzéshez 3D környezetben.*
 * **Technológia:** Three.js / React Three Fiber, Vektormatematika, Raycasting.
 * **A Kihívás:** "Babaház" nézet és interaktív mérőeszközök implementálása, valós idejű távolságmérés 3D pontok között.
 * **Kulcs Skill:** Digital Twin vizualizáció & Számítógépes geometria.
+
 
 ### 🌐 Éles Rendszerek & Referenciák
 
