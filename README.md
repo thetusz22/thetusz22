@@ -10,91 +10,100 @@
 
 # Hi there, I'm Martin! 👋
 
-### 🎓 BProf Student @ Kodolányi János University
-**Full-Stack IoT Engineer & Creative Web Developer**
+### 🎓 BProf Student in Business Informatics @ Kodolányi János University
+**Full-Stack Developer & Creative Technologist**
 
-I am a developer with an insatiable curiosity for how things work—from **low-level hardware control** to **immersive 3D web experiences** and **cutting-edge AI models**.
+I am an innovative developer with an insatiable curiosity for how complex systems work—spanning from **low-level hardware manipulation** and **C#/.NET enterprise tools** to **reactive frontend architectures (React, Angular)** and **automated AI workflows**.
 
-I don't just write code; I explore ecosystems. Whether it's testing the latest **Hugging Face Spaces**, pushing a **Raspberry Pi Pico 2 W** to its limits, or building a WebGL engine from scratch, I am always learning and building.
+As a registered individual entrepreneur, I deliver production-ready, business-grade software solutions while building advanced R&D projects under the hood.
 
 ---
 
 ### 🚀 What I bring to the table
 
-* **🌐 Modern Web Development:** I build responsive, interactive interfaces using **React, Next.js, and TypeScript**.
-* **🤖 AI & Innovation:** I actively monitor and experiment with the latest ML models on **Hugging Face** to integrate AI into practical applications.
-* **⚙️ Industrial IoT:** Strong knowledge of **Linux automation**, Docker, and connecting embedded devices (Microcontrollers/Edge) to the web.
-* **🎨 Creative Tech:** Bridging the gap between code and visual art with **Blender** and **WebGL**.
+* **🌐 Reactive Web Development:** Building scalable, enterprise-ready interfaces using both **React** and modern **Angular (Standalone Architecture)** with rigorous TypeScript control.
+* **⚡ Low-Latency & Embedded Tech:** Designing hardware-isolated automation models using **C#/.NET (Win32 API, P/Invoke)**, Python, and custom **MicroPython** firmware.
+* **🤖 Workflow Automation & AI:** Actively engineering intelligent workflows using **n8n**, OpenAI/Gemini APIs, and building structured **Postman automation collections** for full-stack validation.
+* **🎨 Creative Tech & PropTech:** Bridging spatial mathematics, **Three.js / WebGL**, and **Blender** to create precision digital twins and 3D product configurators.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B3A42?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Web & Frontend**
+**Web & Frontend Frameworks**
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-**Backend, IoT & AI Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi_Pico-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+**Backend, IoT & DevOps**
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi_Pico-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Creative & Design**
+**Creative & Tools**
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### 🏆 Featured Projects
 
-#### 1. 🕹️ [Hardware-Isolated Input Automation System](https://github.com/thetusz22/Hardware-Isolated-Input-Automation-System)
-*A Proof-of-Concept for secure, external hardware control.*
-* **The Tech:** Python (Host), MicroPython (Pico), Wi-Fi Sockets.
-* **The Challenge:** Created a low-latency wireless bridge that reads memory states from a host PC and emulates HID inputs via a **Raspberry Pi Pico 2 W**.
-* **Key Skill:** Embedded Systems & Hardware Isolation.
+#### 1. 📬 [Post-sEmber - Angular API Client & Workflow Suite](https://github.com/thetusz22/Post-sEmber-)
+*A lightweight, developer-focused reactive web app for testing and validating REST API workflows.*
+* **The Tech:** Angular (Standalone Components), TypeScript, RxJS (Streams & Observables), Reactive Forms, Tailwind CSS.
+* **The Challenge:** Engineered an elegant alternative to heavy API clients. Implemented complex state manipulation and dynamic request payload generation using tiszta RxJS streams to manage async HTTP lifecycles flawlessly.
+* **Key Skill:** Reactive Programming & Enterprise Frontend Architecture.
 
-#### 2. 🛡️ [Guardify - AI-Powered 3D Product Configurator](https://guardify.hu)
-*A full-stack e-commerce solution for custom manufacturing.*
-* **The Tech:** React, Three.js (R3F), AI Background Removal API, WebGL.
-* **The Challenge:** Built a custom 3D editor where users can upload images, remove backgrounds using AI, and map textures onto a 3D shin guard model (which I modeled) in real-time.
-* **Key Skill:** 3D Web Development & Automated Manufacturing Pipelines.
+#### 2. 🕹️ [Hardware-Isolated Input Automation System](https://github.com/thetusz22/Hardware-Isolated-Input-Automation-System)
+*A high-performance, szoftveresen detektálhatatlan input controller and automation system.*
+* **The Tech:** C#/.NET, Win32 API (P/Invoke, ReadProcessMemory), Python/MicroPython, Raspberry Pi Pico, Serial Communication.
+* **The Challenge:** Built a robust Windows controller application executing native memory layer diagnostics, combined with low-latency serial data transmission to pipe inputs directly through hardware-level HID emulation.
+* **Key Skill:** Low-Level System Interop & Multi-threaded Architecture.
 
-#### 3. 📐 [3D Spatial Measurement & Dollhouse Viewer](https://github.com/thetusz22/dollhousemeasure)
-*A browser-based tool for precise spatial analysis in 3D environments.*
-* **The Tech:** Three.js / React Three Fiber, Vector Math, Raycasting.
-* **The Challenge:** Implemented a "Dollhouse" view mode with interactive measurement tools, allowing users to calculate distances between 3D points in real-time.
-* **Key Skill:** Digital Twin Visualization & Computational Geometry.
+#### 3. 🛡️ [Guardify - 3D Product Configurator & E-Commerce Platform](https://guardify.hu)
+*A full-stack custom manufacturing platform for custom sports gear.*
+* **The Tech:** React, TypeScript, Vite, Three.js (React Three Fiber), Supabase, WebGL.
+* **The Challenge:** Developed a production-scale 3D editor mapped over precise 3D assets, utilizing an automated backend ecosystem handling secure authorization and media storage.
+* **Key Skill:** Commercial 3D Systems & Full-Stack Synchronization.
 
-### 🌐 Live Deployments & Client Work
+#### 4. 📐 [3D Spatial Measurement Tool & Dollhouse Viewer](https://github.com/thetusz22/dollhousemeasure)
+*A browser-based computational geometry application for PropTech analysis.*
+* **The Tech:** Three.js, WebGL, Raycasting, 3D Vector Math, React.
+* **The Challenge:** Programmed centimeter-accurate real-time distance calculations between random coordinates inside a high-poly 3D mesh architecture.
 
-I build production-ready web applications across various industries using **React, Vite, and Cloudflare**.
+---
 
-| Project | Domain | Tech Stack | Description |
+### 🌐 Live Deployments & Client Portfolio
+
+Production-ready web applications deployed across edge networks (**Cloudflare Pages**).
+
+| Project | Domain / Industry | Tech Stack | Core Deliverable |
 | :--- | :--- | :--- | :--- |
-| **[🛡️ Guardify.hu](https://guardify.hu)** | Webshop, 3D Configurator | `React` `Vite` | Webshop and 3D product configurator with AI integration. |
-| **[🏠 RestartIngatlan.hu](https://restartingatlan.hu)** | Real Estate | `React` `UX/UI` | Property listing platform with modern UI. |
-| **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Hospitality | `React` `Cloudflare` | Branding site for a Smash Burger restaurant. |
-| **[🍲 Zöldkapu Csárda](https://zoldkapu.pages.dev/)** | Hospitality | `React` `Design` | Traditional restaurant site with digitized menu. |
-| **[✂️ Lumina Salon](https://lumina-35b.pages.dev/)** | Beauty | `React` `Vite` | Elegant portfolio for a hair salon. |
-| **[⚖️ Ügyvéd Úr](https://ugyvedur.pages.dev/)** | Legal | `Minimalist` | Professional, trustworthy site for legal services. |
+| **[🛡️ Guardify.hu](https://guardify.hu)** | E-Commerce / 3D Graphics | `React` `TypeScript` `Supabase` | Interactive 3D webshop & automated manufacturing pipeline. |
+| **[🏗️ Z. Build](https://zbuild.hu)** | Engineering & Construction | `React` `Tailwind CSS` `B2B UX` | High-converting corporate web presence for general contractors. |
+| **[🏠 Restart Ingatlan](https://restartingatlan.hu)** | PropTech / Real Estate | `React` `CRM Integration` | Tailored real estate listing platform and property engine. |
+| **[📬 Post-sEmber](https://github.com/thetusz22/Post-sEmber-)** | Developer Utilities | `Angular` `RxJS` `Standalone` | Lightweight web-based REST API runner and pipeline validatior. |
+| **[📱 Currency Converter](https://github.com/thetusz22/CurrencyConverterMaui)** | Cross-Platform Client | `.NET MAUI` `C#` `MVVM` | Mobile & desktop currency utility consuming financial REST APIs. |
+| **[🍔 RustyRack](https://rustyrack1.pages.dev)** | Hospitality / Gastro | `React` `Cloudflare Pages` | Prototyped high-impact branding pages for BBQ restaurant. |
+| **[🍲 Zöldkapu Csárda](https://zoldkapu.pages.dev/)** | Hospitality / Gastro | `React` `Mobile-First` | High-traffic optimized localized menu card interface. |
+| **[⚖️ Ügyvéd Úr](https://ugyvedur.pages.dev/)** | Legal Services | `React` `Minimalist UI` | Trust-centered digital entry point for private legal chambers. |
 
-> 🔒 **Note:** The source code for the web projects listed above is hosted in private repositories to protect client intellectual property and adhere to NDAs. I am happy to discuss the architecture and technologies used in person.
+> 🔒 **Note:** Core commercial logic and production code for specific agency client work are stored in private repositories to comply with strict NDAs and maintain security boundaries. Architecture and engineering choices are fully available for technical review upon request.
 
 ---
 
 ### 📫 Connect with me
 * **Email:** martinsztanyi@gmail.com
+* **Agency Concept:** [chaoslabs.hu](https://chaoslabs.hu)
 * **Socials:** [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Sztanyi.Martin/)
